@@ -129,6 +129,8 @@
                     <a href="#lapangan" class="hover:text-gray-200 transition">Lapangan</a>
                     <a href="#lokasi" class="hover:text-gray-200 transition">Lokasi</a>
                     <a href="#kontak" class="hover:text-gray-200 transition">Kontak</a>
+                    <a href="login.php" class="hover:text-gray-200 transition">login</a>
+                    <a href="daftar.php" class="hover:text-gray-200 transition">daftar</a>
                 </nav>
                 <button class="md:hidden">
                     <i class="fas fa-bars text-2xl"></i>
